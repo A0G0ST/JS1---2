@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+}
+
+#Sten {
+    font-size: 100px;
+    background-color: transparent;
+    border: none;
+}
+
+#Sax {
+    font-size: 100px;
+    background-color: transparent;
+    border: none;
+    
+}
+
+#Påse {
+    font-size: 100px;
+    background-color: transparent;
+    border: none;
+}
+
+body{
+    background-color: white;
+}
+.start{
+    margin-top: 15rem;
+  
+}
+.start img{
+    margin-bottom:2rem ;
+  
+}
+
+.spelet{
+    margin-top: 15rem;
+}
+a{
+    color: black;
+}
